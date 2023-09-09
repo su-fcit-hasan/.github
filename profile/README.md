@@ -11,6 +11,5 @@ The course contains 15 weeks, course materials, and pertinent practices. We will
 This github repository is to host code and learn by doing what is taught in the labs, lectures. Wishing you a happy learning experience.
 
 [Hasan Ali Khattak](https://github.com/hasanalikhattak)
-Associate Professor FCIT
 
-Sohar University
+Associate Professor FCIT, Sohar University
